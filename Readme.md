@@ -61,7 +61,7 @@ O sistema é composto pelas seguintes classes:
 
 ##   Autor
 
-\joaopedrov.borges@gmail.com
+\João Pedro Varela 
 
 ##   Contato
 
